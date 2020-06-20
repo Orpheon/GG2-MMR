@@ -1,0 +1,76 @@
+{
+  "games": [
+    {
+      "losers": [
+        "Meow",
+        "Kevin Kuntz",
+        "Pandaturds",
+        "Tank",
+        "JJ"
+      ],
+      "map": "koth_jarvest",
+      "region": "na",
+      "victors": [
+        "Heenok",
+        "Bery",
+        "Orpheon",
+        "Metaknightrules",
+        "YB"
+      ]
+    },
+    {
+      "losers": [
+        "Heenok",
+        "Bery",
+        "Orpheon",
+        "Metaknightrules",
+        "YB"
+      ],
+      "map": "ctf_purple",
+      "region": "na",
+      "victors": [
+        "Meow",
+        "Kevin Kuntz",
+        "Pandaturds",
+        "Tank",
+        "JJ"
+      ]
+    },
+    {
+      "losers": [
+        "Heenok",
+        "Bery",
+        "Orpheon",
+        "Metaknightrules",
+        "YB"
+      ],
+      "map": "ctf_noir",
+      "region": "na",
+      "victors": [
+        "Meow",
+        "Kevin Kuntz",
+        "Pandaturds",
+        "Tank",
+        "JJ"
+      ]
+    },
+    {
+      "losers": [
+        "Meow",
+        "Kevin Kuntz",
+        "Pandaturds",
+        "Tank",
+        "JJ"
+      ],
+      "map": "cp_mountainjazz",
+      "region": "na",
+      "victors": [
+        "Heenok",
+        "Bery",
+        "Orpheon",
+        "Metaknightrules",
+        "YB"
+      ]
+    }
+  ]
+}

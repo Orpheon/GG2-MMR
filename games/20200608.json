@@ -1,0 +1,99 @@
+{
+  "games": [
+    {
+      "map": "koth_harvest",
+      "victors": [
+        "Metaknightrules",
+        "Heenok",
+        "Footpop",
+        "YB",
+        "Intel Guard",
+        "Insertname"
+      ],
+      "losers": [
+        "Kevin Kuntz",
+        "Kildau",
+        "Oktoberfest",
+        "Piza",
+        "Meow",
+        "Trog"
+      ]
+    },
+    {
+      "map": "ctf_conflict",
+      "victors": [
+        "Metaknightrules",
+        "Heenok",
+        "Footpop",
+        "YB",
+        "Geegee2",
+        "Insertname"
+      ],
+      "losers": [
+        "Kevin Kuntz",
+        "Kildau",
+        "Oktoberfest",
+        "Piza",
+        "Meow",
+        "Trog"
+      ]
+    },
+    {
+      "map": "arena_contra",
+      "victors": [
+        "Metaknightrules",
+        "Heenok",
+        "Footpop",
+        "YB",
+        "Intel Guard",
+        "Insertname"
+      ],
+      "losers": [
+        "Kevin Kuntz",
+        "Kildau",
+        "Oktoberfest",
+        "Piza",
+        "Meow",
+        "Trog"
+      ]
+    },
+    {
+      "map": "ctf_eiger",
+      "victors": [
+        "Kevin Kuntz",
+        "Kildau",
+        "Oktoberfest",
+        "Piza",
+        "Meow",
+        "Trog"
+      ],
+      "losers": [
+        "Metaknightrules",
+        "Heenok",
+        "Footpop",
+        "YB",
+        "Geegee2",
+        "Insertname"
+      ]
+    },
+    {
+      "map": "koth_odvuschwa_rc2",
+      "victors": [
+        "Metaknightrules",
+        "Heenok",
+        "Footpop",
+        "YB",
+        "Intel Guard",
+        "Insertname"
+      ],
+      "losers": [
+        "Kevin Kuntz",
+        "Kildau",
+        "Oktoberfest",
+        "Piza",
+        "Meow",
+        "Trog"
+      ]
+    }
+  ]
+}

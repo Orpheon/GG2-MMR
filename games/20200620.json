@@ -1,0 +1,84 @@
+{
+  "games": [
+    {
+      "losers": [
+        "Kevin Kuntz",
+        "Bery",
+        "Bakas",
+        "Kildau"
+      ],
+      "map": "ctf_conflict2",
+      "region": "eu",
+      "victors": [
+        "YB",
+        "Meow",
+        "Admiral",
+        "Brilliancegoat"
+      ]
+    },
+    {
+      "losers": [
+        "YB",
+        "Meow",
+        "Admiral",
+        "Brilliancegoat"
+      ],
+      "map": "koth_corinth",
+      "region": "eu",
+      "victors": [
+        "Kevin Kuntz",
+        "Bery",
+        "Bakas",
+        "Kildau"
+      ]
+    },
+    {
+      "losers": [
+        "Kevin Kuntz",
+        "Bery",
+        "Bakas",
+        "Kildau"
+      ],
+      "map": "dkoth_cavehole_a1",
+      "region": "eu",
+      "victors": [
+        "YB",
+        "Meow",
+        "Admiral",
+        "Brilliancegoat"
+      ]
+    },
+    {
+      "losers": [
+        "Kevin Kuntz",
+        "Bery",
+        "Bakas",
+        "Kildau"
+      ],
+      "map": "ctf_conflict",
+      "region": "eu",
+      "victors": [
+        "YB",
+        "Meow",
+        "Admiral",
+        "Brilliancegoat"
+      ]
+    },
+    {
+      "losers": [
+        "Kevin Kuntz",
+        "Bery",
+        "Bakas",
+        "Kildau"
+      ],
+      "map": "cp_inca",
+      "region": "eu",
+      "victors": [
+        "YB",
+        "Meow",
+        "Admiral",
+        "Brilliancegoat"
+      ]
+    }
+  ]
+}

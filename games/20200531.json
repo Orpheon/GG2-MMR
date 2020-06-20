@@ -1,0 +1,94 @@
+{
+  "games": [
+    {
+      "map": "cp_mountainjazz",
+      "victors": [
+        "Oktoberfest",
+        "Heenok",
+        "Kevin Kuntz",
+        "Kildau",
+        "Piza"
+      ],
+      "losers": [
+        "Insertname",
+        "YB",
+        "Meow",
+        "Piza",
+        "Bakas",
+        "Geegee2"
+      ]
+    },
+    {
+      "map": "ctf_canadaconflict",
+      "victors": [
+        "Oktoberfest",
+        "Heenok",
+        "Kevin Kuntz",
+        "Kildau",
+        "Piza"
+      ],
+      "losers": [
+        "Insertname",
+        "YB",
+        "Meow",
+        "Piza",
+        "Bakas",
+        "Geegee2"
+      ]
+    },
+    {
+      "map": "koth_jarvest",
+      "victors": [
+        "Oktoberfest",
+        "Heenok",
+        "Kevin Kuntz",
+        "Kildau",
+        "Piza"
+      ],
+      "losers": [
+        "Insertname",
+        "YB",
+        "Meow",
+        "Piza",
+        "Bakas",
+        "Geegee2"
+      ]
+    },
+    {
+      "map": "ctf_cyclops",
+      "victors": [
+        "Insertname",
+        "YB",
+        "Meow",
+        "Piza",
+        "Bakas",
+        "Geegee2"
+      ],
+      "losers": [
+        "Oktoberfest",
+        "Heenok",
+        "Kevin Kuntz",
+        "Kildau",
+        "Piza"
+      ]
+    },
+    {
+      "map": "cp_kistra",
+      "victors": [
+        "Oktoberfest",
+        "Heenok",
+        "Kevin Kuntz",
+        "Kildau",
+        "Piza"
+      ],
+      "losers": [
+        "Insertname",
+        "YB",
+        "Meow",
+        "Piza",
+        "Bakas",
+        "Geegee2"
+      ]
+    }
+  ]
+}

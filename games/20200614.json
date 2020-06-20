@@ -1,0 +1,169 @@
+{
+  "games": [
+    {
+      "map": "cp_memeplatform_a1",
+      "region": "eu",
+      "victors": [
+        "Meow",
+        "Sparky",
+        "Bakas",
+        "Kevin Kuntz"
+      ],
+      "losers": [
+        "YB",
+        "Kildau",
+        "Admiral",
+        "Brilliancegoat"
+      ]
+    },
+    {
+      "map": "koth_cdragon",
+      "region": "eu",
+      "victors": [
+        "Meow",
+        "Sparky",
+        "Bakas",
+        "Kevin Kuntz"
+      ],
+      "losers": [
+        "YB",
+        "Kildau",
+        "Admiral",
+        "Brilliancegoat"
+      ]
+    },
+    {
+      "map": "koth_harvest",
+      "region": "eu",
+      "victors": [
+        "Meow",
+        "Sparky",
+        "Bakas",
+        "Kevin Kuntz"
+      ],
+      "losers": [
+        "YB",
+        "Kildau",
+        "Admiral",
+        "Brilliancegoat"
+      ]
+    },
+    {
+      "map": "koth_contra",
+      "region": "eu",
+      "victors": [
+        "Meow",
+        "Sparky",
+        "Bakas",
+        "Kevin Kuntz"
+      ],
+      "losers": [
+        "YB",
+        "Kildau",
+        "Admiral",
+        "Brilliancegoat"
+      ]
+    },
+    {
+      "map": "ctf_conflict",
+      "region": "eu",
+      "losers": [
+        "Meow",
+        "Sparky",
+        "Bakas",
+        "Kevin Kuntz"
+      ],
+      "victors": [
+        "YB",
+        "Kildau",
+        "Admiral",
+        "Brilliancegoat"
+      ]
+    },
+    {
+      "map": "koth_jarvest",
+      "losers": [
+        "Oktoberfest",
+        "Deity",
+        "Metaknightrules",
+        "Trog",
+        "Geegee2"
+      ],
+      "victors": [
+        "Intel Guard",
+        "Footpop",
+        "Heenok",
+        "Insertname",
+        "RedO"
+      ]
+    },
+    {
+      "map": "cp_mountainjazz",
+      "losers": [
+        "Oktoberfest",
+        "Deity",
+        "Metaknightrules",
+        "Trog",
+        "Geegee2"
+      ],
+      "victors": [
+        "Intel Guard",
+        "Footpop",
+        "Heenok",
+        "Insertname",
+        "RedO"
+      ]
+    },
+    {
+      "map": "ctf_rsm",
+      "victors": [
+        "Oktoberfest",
+        "Deity",
+        "Metaknightrules",
+        "Trog",
+        "Geegee2"
+      ],
+      "losers": [
+        "Intel Guard",
+        "Footpop",
+        "Heenok",
+        "Insertname",
+        "RedO"
+      ]
+    },
+    {
+      "map": "koth_contra",
+      "losers": [
+        "Oktoberfest",
+        "Deity",
+        "Metaknightrules",
+        "Trog",
+        "Geegee2"
+      ],
+      "victors": [
+        "Intel Guard",
+        "Footpop",
+        "Heenok",
+        "Insertname",
+        "RedO"
+      ]
+    },
+    {
+      "map": "cp_kistra",
+      "losers": [
+        "Oktoberfest",
+        "Deity",
+        "Metaknightrules",
+        "Trog",
+        "Geegee2"
+      ],
+      "victors": [
+        "Intel Guard",
+        "Footpop",
+        "Heenok",
+        "Insertname",
+        "RedO"
+      ]
+    }
+  ]
+}

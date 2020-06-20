@@ -1,0 +1,94 @@
+{
+  "games": [
+    {
+      "losers": [
+        "YB",
+        "Footpop",
+        "Meow",
+        "Bery",
+        "Metaknightrules"
+      ],
+      "map": "koth_contra",
+      "region": "na",
+      "victors": [
+        "Kevin Kuntz",
+        "BRS",
+        "Heenok",
+        "Deity",
+        "Tank"
+      ]
+    },
+    {
+      "losers": [
+        "YB",
+        "Footpop",
+        "Meow",
+        "Bery",
+        "Metaknightrules"
+      ],
+      "map": "koth_valley",
+      "region": "na",
+      "victors": [
+        "Kevin Kuntz",
+        "BRS",
+        "Heenok",
+        "Deity",
+        "Tank"
+      ]
+    },
+    {
+      "losers": [
+        "YB",
+        "Footpop",
+        "Meow",
+        "Bery",
+        "Metaknightrules"
+      ],
+      "map": "cp_gully",
+      "region": "na",
+      "victors": [
+        "Kevin Kuntz",
+        "BRS",
+        "Heenok",
+        "Deity",
+        "Tank"
+      ]
+    },
+    {
+      "losers": [
+        "YB",
+        "Footpop",
+        "Meow",
+        "Bery",
+        "Metaknightrules"
+      ],
+      "map": "koth_viaduct",
+      "region": "na",
+      "victors": [
+        "Kevin Kuntz",
+        "BRS",
+        "Heenok",
+        "Deity",
+        "Tank"
+      ]
+    },
+    {
+      "losers": [
+        "Kevin Kuntz",
+        "BRS",
+        "Heenok",
+        "Deity",
+        "Tank"
+      ],
+      "map": "dkoth_kots",
+      "region": "na",
+      "victors": [
+        "YB",
+        "Footpop",
+        "Meow",
+        "Bery",
+        "Metaknightrules"
+      ]
+    }
+  ]
+}

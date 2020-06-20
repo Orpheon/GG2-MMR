@@ -1,0 +1,79 @@
+{
+  "games": [
+    {
+      "map": "ctf_canadaconflict",
+      "victors": [
+        "Heenok",
+        "Kevin Kuntz",
+        "Bery",
+        "YB"
+      ],
+      "losers": [
+        "Insertname",
+        "JJ",
+        "Meow",
+        "Piza"
+      ]
+    },
+    {
+      "map": "koth_jarvest",
+      "losers": [
+        "Heenok",
+        "Kevin Kuntz",
+        "Bery",
+        "YB"
+      ],
+      "victors": [
+        "Insertname",
+        "JJ",
+        "Meow",
+        "Piza"
+      ]
+    },
+    {
+      "map": "koth_marine",
+      "victors": [
+        "Heenok",
+        "Kevin Kuntz",
+        "Bery",
+        "YB"
+      ],
+      "losers": [
+        "Insertname",
+        "JJ",
+        "Meow",
+        "Piza"
+      ]
+    },
+    {
+      "map": "koth_contra",
+      "victors": [
+        "Heenok",
+        "Kevin Kuntz",
+        "Bery",
+        "YB"
+      ],
+      "losers": [
+        "Insertname",
+        "JJ",
+        "Meow",
+        "Archer"
+      ]
+    },
+    {
+      "map": "ctf_cyclops",
+      "victors": [
+        "Heenok",
+        "Kevin Kuntz",
+        "Bery",
+        "YB"
+      ],
+      "losers": [
+        "Insertname",
+        "JJ",
+        "Meow",
+        "Archer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "games": [
+    {
+      "map": "ctf_RSM",
+      "losers": [
+        "Footpop",
+        "Deity",
+        "HOLA",
+        "Intel Guard",
+        "Bakas",
+        "Trog"
+      ],
+      "victors": [
+        "Kildau",
+        "Meow",
+        "YB",
+        "Insertname",
+        "Kevin Kuntz",
+        "BRS"
+      ]
+    },
+    {
+      "map": "dkoth_kots",
+      "victors": [
+        "Footpop",
+        "Deity",
+        "HOLA",
+        "Intel Guard",
+        "Bakas",
+        "Trog"
+      ],
+      "losers": [
+        "Kildau",
+        "Meow",
+        "YB",
+        "Insertname",
+        "Kevin Kuntz",
+        "BRS"
+      ]
+    },
+    {
+      "map": "ctf_noir",
+      "victors": [
+        "Footpop",
+        "Deity",
+        "HOLA",
+        "Intel Guard",
+        "Bakas",
+        "Trog"
+      ],
+      "losers": [
+        "Kildau",
+        "Meow",
+        "YB",
+        "Insertname",
+        "Kevin Kuntz",
+        "BRS"
+      ]
+    },
+    {
+      "map": "koth_gallery",
+      "losers": [
+        "Footpop",
+        "Deity",
+        "HOLA",
+        "Intel Guard",
+        "Bakas",
+        "Trog"
+      ],
+      "victors": [
+        "Kildau",
+        "Meow",
+        "YB",
+        "Insertname",
+        "Kevin Kuntz",
+        "BRS"
+      ]
+    }
+  ]
+}
