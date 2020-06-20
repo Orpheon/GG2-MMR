@@ -52,7 +52,7 @@ path = os.path.join("games", today_str+".json")
 if os.path.exists(path):
   with open(path, "r") as f:
     preload = json.load(f)
-    games = preload + games
+    games = preload['games'] + games
 
 with open(path, "w") as f:
   json.dump({"games": games}, f, sort_keys=True, indent=2)
