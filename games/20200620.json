@@ -79,6 +79,86 @@
         "Admiral",
         "Brilliancegoat"
       ]
+    },
+    {
+      "losers": [
+        "Oktoberfest",
+        "Trog",
+        "Kevin Kuntz",
+        "Chudooder"
+      ],
+      "map": "koth_jarvest",
+      "region": "na",
+      "victors": [
+        "Kildau",
+        "Sparky",
+        "Geegee2",
+        "Insertname"
+      ]
+    },
+    {
+      "losers": [
+        "Kildau",
+        "Sparky",
+        "Geegee2",
+        "Insertname"
+      ],
+      "map": "ctf_rsm",
+      "region": "na",
+      "victors": [
+        "Oktoberfest",
+        "Trog",
+        "Kevin Kuntz",
+        "Chudooder"
+      ]
+    },
+    {
+      "losers": [
+        "Kildau",
+        "Sparky",
+        "Geegee2",
+        "Insertname"
+      ],
+      "map": "ctf_conflict2",
+      "region": "na",
+      "victors": [
+        "Oktoberfest",
+        "Trog",
+        "Kevin Kuntz",
+        "Chudooder"
+      ]
+    },
+    {
+      "losers": [
+        "Oktoberfest",
+        "Trog",
+        "Kevin Kuntz",
+        "Chudooder"
+      ],
+      "map": "dkoth_kots",
+      "region": "na",
+      "victors": [
+        "Kildau",
+        "Sparky",
+        "Geegee2",
+        "Insertname"
+      ]
+    },
+    {
+      "losers": [
+        "Oktoberfest",
+        "Trog",
+        "Kevin Kuntz",
+        "Chudooder"
+      ],
+      "map": "koth_odvuschwa",
+      "region": "na",
+      "victors": [
+        "Kildau",
+        "Sparky",
+        "Geegee2",
+        "Insertname"
+      ]
     }
   ]
 }
