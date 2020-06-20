@@ -13,7 +13,6 @@ def define_team(team_prefix):
 
 today = dt.date.today()
 today_str = today.strftime(("%Y%m%d"))
-today_str = "20200510"
 red = define_team("Red")
 blue = define_team("Blue")
 print("Teams:")
@@ -47,7 +46,7 @@ while True:
       "region": region
     })
   else:
-    print("Wrong team input")
+    print("Wrong input, use 'r' or 'b' to denote the winner.")
 
 path = os.path.join("games", today_str+".json")
 if os.path.exists(path):
