@@ -10,7 +10,8 @@ import seaborn as sns
 sns.set_style("whitegrid")
 
 ROOT = "games"
-REGION = "eu"
+REGION = ""
+BANLIST = ["Piza"]
 
 game_files = os.listdir(ROOT)
 ratings = {}
@@ -47,6 +48,7 @@ for game_file in sorted(game_files):
   history = pd.concat((history, new_row), join="outer")
 
 for name, rating in sorted(ratings.items(), key=lambda x: x[1].mu, reverse=True):
+  if name in BANLIST: continue
   print("{0}: {1} +/- {2} (Win Percentage: {3}%, {4} games)".format(
     name,
     round(rating.mu, 3),
