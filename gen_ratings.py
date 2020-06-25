@@ -11,7 +11,7 @@ sns.set_style("whitegrid")
 
 ROOT = "games"
 REGION = ""
-BANLIST = ["Piza"]
+BANLIST = ["Piza", "Akvari"]
 
 game_files = os.listdir(ROOT)
 ratings = {}
