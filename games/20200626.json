@@ -1,0 +1,94 @@
+{
+  "games": [
+    {
+      "losers": [
+        "Kildau",
+        "Meow",
+        "Footpop",
+        "Brilliancegoat",
+        "Meower"
+      ],
+      "map": "cp_tesla",
+      "region": "eu",
+      "victors": [
+        "Bakas",
+        "Akvari",
+        "Bery",
+        "Sparky",
+        "Intel Guard"
+      ]
+    },
+    {
+      "losers": [
+        "Kildau",
+        "Meow",
+        "Footpop",
+        "Brilliancegoat",
+        "Meower"
+      ],
+      "map": "ctf_eiger",
+      "region": "eu",
+      "victors": [
+        "Bakas",
+        "Akvari",
+        "Bery",
+        "Sparky",
+        "Intel Guard"
+      ]
+    },
+    {
+      "losers": [
+        "Bakas",
+        "Akvari",
+        "Bery",
+        "Sparky",
+        "Intel Guard"
+      ],
+      "map": "dkoth_kots",
+      "region": "eu",
+      "victors": [
+        "Kildau",
+        "Meow",
+        "Footpop",
+        "Brilliancegoat",
+        "Meower"
+      ]
+    },
+    {
+      "losers": [
+        "Bakas",
+        "Akvari",
+        "Bery",
+        "Sparky",
+        "Intel Guard"
+      ],
+      "map": "koth_thundermountain",
+      "region": "eu",
+      "victors": [
+        "Kildau",
+        "Meow",
+        "Footpop",
+        "Brilliancegoat",
+        "Meower"
+      ]
+    },
+    {
+      "losers": [
+        "Bakas",
+        "Akvari",
+        "Bery",
+        "Sparky",
+        "Intel Guard"
+      ],
+      "map": "ctf_rsm",
+      "region": "eu",
+      "victors": [
+        "Kildau",
+        "Meow",
+        "Footpop",
+        "Brilliancegoat",
+        "Meower"
+      ]
+    }
+  ]
+}

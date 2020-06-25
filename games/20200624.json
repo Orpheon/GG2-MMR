@@ -1,0 +1,94 @@
+{
+  "games": [
+    {
+      "losers": [
+        "Insertname",
+        "Meow",
+        "Bakas",
+        "Trog",
+        "Metaknightrules"
+      ],
+      "map": "koth_contra",
+      "region": "eu",
+      "victors": [
+        "Kildau",
+        "Heenok",
+        "YB",
+        "Kevin Kuntz",
+        "Akvari"
+      ]
+    },
+    {
+      "losers": [
+        "Insertname",
+        "Meow",
+        "Bakas",
+        "Trog",
+        "Metaknightrules"
+      ],
+      "map": "cp_mountainjazz",
+      "region": "eu",
+      "victors": [
+        "Kildau",
+        "Heenok",
+        "YB",
+        "Kevin Kuntz",
+        "Akvari"
+      ]
+    },
+    {
+      "losers": [
+        "Insertname",
+        "Meow",
+        "Bakas",
+        "Trog",
+        "Metaknightrules"
+      ],
+      "map": "koth_harvest",
+      "region": "eu",
+      "victors": [
+        "Kildau",
+        "Heenok",
+        "YB",
+        "Kevin Kuntz",
+        "Akvari"
+      ]
+    },
+    {
+      "losers": [
+        "Insertname",
+        "Meow",
+        "Bakas",
+        "Trog",
+        "Metaknightrules"
+      ],
+      "map": "dkoth_sixties",
+      "region": "eu",
+      "victors": [
+        "Kildau",
+        "Heenok",
+        "YB",
+        "Kevin Kuntz",
+        "Akvari"
+      ]
+    },
+    {
+      "losers": [
+        "Insertname",
+        "Meow",
+        "Bakas",
+        "Trog",
+        "Metaknightrules"
+      ],
+      "map": "ctf_rsm",
+      "region": "eu",
+      "victors": [
+        "Kildau",
+        "Heenok",
+        "YB",
+        "Kevin Kuntz",
+        "Akvari"
+      ]
+    }
+  ]
+}
