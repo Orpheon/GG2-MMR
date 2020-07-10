@@ -1,0 +1,84 @@
+{
+  "games": [
+    {
+      "losers": [
+        "Kevin Kuntz",
+        "Trog",
+        "Intel Guard",
+        "Heenok"
+      ],
+      "map": "ctf_conflict2",
+      "region": "na",
+      "victors": [
+        "Footpop",
+        "Metaknightrules",
+        "ZaSpai",
+        "Insertname"
+      ]
+    },
+    {
+      "losers": [
+        "Footpop",
+        "Metaknightrules",
+        "ZaSpai",
+        "Insertname"
+      ],
+      "map": "koth_contra",
+      "region": "na",
+      "victors": [
+        "Kevin Kuntz",
+        "Trog",
+        "Intel Guard",
+        "Heenok"
+      ]
+    },
+    {
+      "losers": [
+        "Footpop",
+        "Metaknightrules",
+        "ZaSpai",
+        "Insertname"
+      ],
+      "map": "ctf_coal",
+      "region": "na",
+      "victors": [
+        "Kevin Kuntz",
+        "Trog",
+        "Intel Guard",
+        "Heenok"
+      ]
+    },
+    {
+      "losers": [
+        "Footpop",
+        "Metaknightrules",
+        "ZaSpai",
+        "Insertname"
+      ],
+      "map": "dkoth_kots",
+      "region": "na",
+      "victors": [
+        "Kevin Kuntz",
+        "Trog",
+        "Intel Guard",
+        "Heenok"
+      ]
+    },
+    {
+      "losers": [
+        "Footpop",
+        "Metaknightrules",
+        "ZaSpai",
+        "Insertname"
+      ],
+      "map": "ctf_eiger",
+      "region": "na",
+      "victors": [
+        "Kevin Kuntz",
+        "Trog",
+        "Intel Guard",
+        "Heenok"
+      ]
+    }
+  ]
+}

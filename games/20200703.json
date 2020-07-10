@@ -1,0 +1,52 @@
+{
+  "games": [
+    {
+      "losers": [
+        "Trog",
+        "Footpop",
+        "Chu",
+        "Drstampy"
+      ],
+      "map": "ctf_rsm",
+      "region": "na",
+      "victors": [
+        "INSERT MEME",
+        "Heenok",
+        "Intel Guard",
+        "Oktoberfest"
+      ]
+    },
+    {
+      "losers": [
+        "Trog",
+        "Footpop",
+        "Chu",
+        "Drstampy"
+      ],
+      "map": "koth_double",
+      "region": "na",
+      "victors": [
+        "INSERT MEME",
+        "Heenok",
+        "Intel Guard",
+        "Oktoberfest"
+      ]
+    },
+    {
+      "losers": [
+        "Trog",
+        "Footpop",
+        "Chu",
+        "Drstampy"
+      ],
+      "map": "koth_random2387481272",
+      "region": "na",
+      "victors": [
+        "INSERT MEME",
+        "Heenok",
+        "Intel Guard",
+        "Oktoberfest"
+      ]
+    }
+  ]
+}

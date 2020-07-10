@@ -1,0 +1,104 @@
+{
+  "games": [
+    {
+      "losers": [
+        "Beryllium",
+        "JJ",
+        "Machidro",
+        "Chu",
+        "Footpop",
+        "Metaknightrules"
+      ],
+      "map": "ctf_conflict",
+      "region": "na",
+      "victors": [
+        "Intel Guard",
+        "Heenok",
+        "Trog",
+        "Bakas",
+        "Kevin Kuntz",
+        "Insertname"
+      ]
+    },
+    {
+      "losers": [
+        "Beryllium",
+        "JJ",
+        "Machidro",
+        "Chu",
+        "Footpop",
+        "Metaknightrules"
+      ],
+      "map": "koth_gallery",
+      "region": "na",
+      "victors": [
+        "Intel Guard",
+        "Heenok",
+        "Trog",
+        "Bakas",
+        "Kevin Kuntz",
+        "Insertname"
+      ]
+    },
+    {
+      "losers": [
+        "Intel Guard",
+        "Heenok",
+        "Trog",
+        "Bakas",
+        "Kevin Kuntz",
+        "Insertname"
+      ],
+      "map": "koth_stonemine",
+      "region": "na",
+      "victors": [
+        "Beryllium",
+        "JJ",
+        "Machidro",
+        "Chu",
+        "Footpop",
+        "Metaknightrules"
+      ]
+    },
+    {
+      "losers": [
+        "Beryllium",
+        "JJ",
+        "Machidro",
+        "Chu",
+        "Footpop",
+        "Metaknightrules"
+      ],
+      "map": "koth_nightly",
+      "region": "na",
+      "victors": [
+        "Intel Guard",
+        "Heenok",
+        "Trog",
+        "Bakas",
+        "Kevin Kuntz",
+        "Insertname"
+      ]
+    },
+    {
+      "losers": [
+        "Intel Guard",
+        "Heenok",
+        "Trog",
+        "Bakas",
+        "Kevin Kuntz",
+        "Insertname"
+      ],
+      "map": "dkoth_kots",
+      "region": "na",
+      "victors": [
+        "Beryllium",
+        "JJ",
+        "Machidro",
+        "Chu",
+        "Footpop",
+        "Metaknightrules"
+      ]
+    }
+  ]
+}
